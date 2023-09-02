@@ -1,6 +1,6 @@
 # Calculator App
 
-![Calculator]("Screenshot.png")
+![Calculator]("C:\Users\mahme\OneDrive - 0s4l8\Documents\GitHub\Python-GUI-Calculator-Using-Tkinter\Screenshot.png")
 
 A simple calculator application built using Python and Tkinter for creating a graphical user interface.
 
