@@ -1,6 +1,6 @@
 # Calculator App
 
-![Calculator Screenshot]("Calculator Screenshot.png")
+![Calculator Screenshot]("Screenshot.png")
 
 A simple calculator application built using Python and Tkinter for creating a graphical user interface.
 
@@ -23,7 +23,7 @@ You need to have Python and Tkinter installed on your system to run this applica
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/calculator-app.git
+   git clone https://github.com/Ahmad1015/Python-GUI-Calculator-Using-Tkinter.git
 
 Navigate to the project directory:
 
@@ -33,7 +33,7 @@ Navigate to the project directory:
 ## Running the Application
 To run the calculator application, use the following command:
     ```bash
-    python calculator.py
+    python Calculator.py
 
 ## Usage
     Enter the numbers and operations using the on-screen buttons or your keyboard.
@@ -44,9 +44,9 @@ To run the calculator application, use the following command:
 If you'd like to contribute to this project, please follow these guidelines:
 
 Fork the project.
-Create a new branch (git checkout -b feature/your-feature-name).
-Commit your changes (git commit -am 'Add new feature').
-Push to the branch (git push origin feature/your-feature-name).
+Create a new branch. 
+Commit your changes. 
+Push to the branch.
 Create a new Pull Request.
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
