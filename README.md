@@ -1,6 +1,6 @@
 # Calculator App
 
-![Calculator Screenshot]("Screenshot.png")
+![Calculator]("Screenshot.png")
 
 A simple calculator application built using Python and Tkinter for creating a graphical user interface.
 
